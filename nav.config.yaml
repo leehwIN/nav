@@ -38,7 +38,7 @@ email: ''
 
 # 自有部署邮件通知系统
 mailConfig:
-  host: smtp.mxhichina.com
+  host: ''
   port: 465
   secure: true
   auth:
